@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{D6741EFA-61F9-481A-B986-FDB05562D1E3}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Overflow/Program.cs">
+    <Files>
+      <File FileName="Overflow/Program.cs" Line="24" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Overflow" expanded="True">
+            <Node name="Overflow" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Overflow PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+</Properties>
