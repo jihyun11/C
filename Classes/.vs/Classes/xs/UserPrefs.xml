@@ -1,14 +1,14 @@
-﻿<Properties StartupConfiguration="{0F9044B0-283A-4FB8-B6F7-B224562577B3}|Default">
+﻿<Properties StartupConfiguration="{0C8B7AEA-86D9-418D-BD16-F6E73540EB79}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Fraction/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Classes/Program.cs">
     <Files>
-      <File FileName="Fraction/Program.cs" Line="6" Column="19" />
+      <File FileName="Classes/Program.cs" Line="9" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Fraction" expanded="True">
-            <Node name="Fraction" expanded="True" selected="True" />
+          <Node name="Classes" expanded="True" selected="True">
+            <Node name="Classes" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -18,7 +18,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Fraction PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Classes PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -1,0 +1,15 @@
+/Users/mozzi/Desktop/c/Deligate/Deligate/bin/Debug/net6.0/Deligate
+/Users/mozzi/Desktop/c/Deligate/Deligate/bin/Debug/net6.0/Deligate.deps.json
+/Users/mozzi/Desktop/c/Deligate/Deligate/bin/Debug/net6.0/Deligate.runtimeconfig.json
+/Users/mozzi/Desktop/c/Deligate/Deligate/bin/Debug/net6.0/Deligate.dll
+/Users/mozzi/Desktop/c/Deligate/Deligate/bin/Debug/net6.0/Deligate.pdb
+/Users/mozzi/Desktop/c/Deligate/Deligate/obj/Debug/net6.0/Deligate.csproj.AssemblyReference.cache
+/Users/mozzi/Desktop/c/Deligate/Deligate/obj/Debug/net6.0/Deligate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mozzi/Desktop/c/Deligate/Deligate/obj/Debug/net6.0/Deligate.AssemblyInfoInputs.cache
+/Users/mozzi/Desktop/c/Deligate/Deligate/obj/Debug/net6.0/Deligate.AssemblyInfo.cs
+/Users/mozzi/Desktop/c/Deligate/Deligate/obj/Debug/net6.0/Deligate.csproj.CoreCompileInputs.cache
+/Users/mozzi/Desktop/c/Deligate/Deligate/obj/Debug/net6.0/Deligate.dll
+/Users/mozzi/Desktop/c/Deligate/Deligate/obj/Debug/net6.0/refint/Deligate.dll
+/Users/mozzi/Desktop/c/Deligate/Deligate/obj/Debug/net6.0/Deligate.pdb
+/Users/mozzi/Desktop/c/Deligate/Deligate/obj/Debug/net6.0/Deligate.genruntimeconfig.cache
+/Users/mozzi/Desktop/c/Deligate/Deligate/obj/Debug/net6.0/ref/Deligate.dll
