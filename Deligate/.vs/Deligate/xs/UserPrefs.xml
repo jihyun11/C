@@ -1,4 +1,26 @@
 ﻿<Properties StartupConfiguration="{70DA765C-9CAD-42F5-AFB8-D635FD50CC7A}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Deligate FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Deligate/Program.cs">
+    <Files>
+      <File FileName="Deligate/Program.cs" Line="28" Column="69" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Deligate" expanded="True">
+            <Node name="Deligate" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Deligate PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
