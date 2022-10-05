@@ -1,14 +1,18 @@
 ﻿<Properties StartupConfiguration="{70DA765C-9CAD-42F5-AFB8-D635FD50CC7A}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Deligate/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HiddenName/Program.cs">
     <Files>
-      <File FileName="Deligate/Program.cs" Line="28" Column="69" />
+      <File FileName="HiddenName/Program.cs" Line="22" Column="1" IsPinned="True" />
+      <File FileName="Deligate/Program.cs" Line="29" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Deligate" expanded="True">
-            <Node name="Deligate" expanded="True" />
+            <Node name="Deligate" expanded="True">
+              <Node name="Dependencies" selected="True" />
+            </Node>
+            <Node name="HiddenName" expanded="True" />
           </Node>
         </State>
       </Pad>
