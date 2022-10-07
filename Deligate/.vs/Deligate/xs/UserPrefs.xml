@@ -9,9 +9,7 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Deligate" expanded="True">
-            <Node name="Deligate" expanded="True">
-              <Node name="Dependencies" selected="True" />
-            </Node>
+            <Node name="Deligate" expanded="True" />
             <Node name="HiddenName" expanded="True" />
           </Node>
         </State>
