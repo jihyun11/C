@@ -1,4 +1,28 @@
 ﻿<Properties StartupConfiguration="{395CAA14-1047-4018-B2C5-0DFFDD728C48}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.genericMethod FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="genericMethod/throw.cs">
+    <Files>
+      <File FileName="genericMethod/Program.cs" Line="18" Column="45" />
+      <File FileName="genericMethod/EmptyClass.cs" Line="16" Column="18" />
+      <File FileName="genericMethod/throw.cs" Line="9" Column="38" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="genericMethod" expanded="True">
+            <Node name="genericMethod" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.genericMethod PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

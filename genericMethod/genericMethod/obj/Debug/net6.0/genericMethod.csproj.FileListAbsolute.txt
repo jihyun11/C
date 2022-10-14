@@ -1,0 +1,5 @@
+/Users/mozzi/Desktop/c/genericMethod/genericMethod/obj/Debug/net6.0/genericMethod.csproj.AssemblyReference.cache
+/Users/mozzi/Desktop/c/genericMethod/genericMethod/obj/Debug/net6.0/genericMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mozzi/Desktop/c/genericMethod/genericMethod/obj/Debug/net6.0/genericMethod.AssemblyInfoInputs.cache
+/Users/mozzi/Desktop/c/genericMethod/genericMethod/obj/Debug/net6.0/genericMethod.AssemblyInfo.cs
+/Users/mozzi/Desktop/c/genericMethod/genericMethod/obj/Debug/net6.0/genericMethod.csproj.CoreCompileInputs.cache
