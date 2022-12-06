@@ -2,7 +2,144 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fde5aa31-7d03-4df1-bcf4-9ec84447a7b9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Deligate/.vs/Deligate/xs/UserPrefs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Deligate/.vs/Deligate/xs/UserPrefs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/.vs/Hello_Mac/xs/project-cache/Hello_Mac-Debug.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/Assets.xcassets/AppIcon.appiconset/AppIcon-128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/Assets.xcassets/AppIcon.appiconset/AppIcon-128@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/Assets.xcassets/AppIcon.appiconset/AppIcon-16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/Assets.xcassets/AppIcon.appiconset/AppIcon-16@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/Assets.xcassets/AppIcon.appiconset/AppIcon-256.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/Assets.xcassets/AppIcon.appiconset/AppIcon-256@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/Assets.xcassets/AppIcon.appiconset/AppIcon-32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/Assets.xcassets/AppIcon.appiconset/AppIcon-32@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/Assets.xcassets/AppIcon.appiconset/AppIcon-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/Assets.xcassets/AppIcon.appiconset/AppIcon-512@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/Entitlements.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/Hello_Mac.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/ViewController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/ViewController.designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/bin/Debug/Hello_Mac.app/Contents/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/bin/Debug/Hello_Mac.app/Contents/MacOS/Hello_Mac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/bin/Debug/Hello_Mac.app/Contents/MacOS/Hello_Mac.dSYM/Contents/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/bin/Debug/Hello_Mac.app/Contents/MacOS/Hello_Mac.dSYM/Contents/Resources/DWARF/Hello_Mac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/bin/Debug/Hello_Mac.app/Contents/MonoBundle/Hello_Mac.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/bin/Debug/Hello_Mac.app/Contents/MonoBundle/Hello_Mac.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/bin/Debug/Hello_Mac.app/Contents/MonoBundle/Mono.Security.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/bin/Debug/Hello_Mac.app/Contents/MonoBundle/Mono.Security.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/bin/Debug/Hello_Mac.app/Contents/MonoBundle/System.Core.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/bin/Debug/Hello_Mac.app/Contents/MonoBundle/System.Core.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/bin/Debug/Hello_Mac.app/Contents/MonoBundle/System.Drawing.Common.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/bin/Debug/Hello_Mac.app/Contents/MonoBundle/System.Net.Http.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/bin/Debug/Hello_Mac.app/Contents/MonoBundle/System.Net.Http.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/bin/Debug/Hello_Mac.app/Contents/MonoBundle/System.Numerics.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/bin/Debug/Hello_Mac.app/Contents/MonoBundle/System.Numerics.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/bin/Debug/Hello_Mac.app/Contents/MonoBundle/System.Xml.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/bin/Debug/Hello_Mac.app/Contents/MonoBundle/System.Xml.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/bin/Debug/Hello_Mac.app/Contents/MonoBundle/System.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/bin/Debug/Hello_Mac.app/Contents/MonoBundle/System.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/bin/Debug/Hello_Mac.app/Contents/MonoBundle/Xamarin.Mac.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/bin/Debug/Hello_Mac.app/Contents/MonoBundle/Xamarin.Mac.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/bin/Debug/Hello_Mac.app/Contents/MonoBundle/config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/bin/Debug/Hello_Mac.app/Contents/MonoBundle/libMonoPosixHelper.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/bin/Debug/Hello_Mac.app/Contents/MonoBundle/libmono-native.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/bin/Debug/Hello_Mac.app/Contents/MonoBundle/mscorlib.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/bin/Debug/Hello_Mac.app/Contents/MonoBundle/mscorlib.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/bin/Debug/Hello_Mac.app/Contents/PkgInfo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/bin/Debug/Hello_Mac.app/Contents/Resources/AppIcon.icns" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/bin/Debug/Hello_Mac.app/Contents/Resources/Assets.car" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/bin/Debug/Hello_Mac.app/Contents/Resources/Main.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/bin/Debug/Hello_Mac.app/Contents/Resources/Main.storyboardc/MainMenu.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/bin/Debug/Hello_Mac.app/Contents/Resources/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/bin/Debug/Hello_Mac.app/Contents/Resources/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/bin/Debug/Hello_Mac.app/Contents/Resources/runtime-options.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/bin/Debug/Hello_Mac.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/bin/Debug/Hello_Mac.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/bin/Debug/bundler.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/bin/Debug/codesign-bundle.items" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/bin/Debug/codesign.items" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/bin/Debug/postprocessing.items" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/bin/Debug/stderr.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/bin/Debug/stdout.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/obj/Debug/AppManifest.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/obj/Debug/Hello_Mac.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/obj/Debug/Hello_Mac.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/obj/Debug/Hello_Mac.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/obj/Debug/Hello_Mac.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/obj/Debug/Hello_Mac.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/obj/Debug/Xamarin.Mac,Version=v2.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/obj/Debug/actool/_BundleResourceWithLogicalName.items" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/obj/Debug/actool/_PartialAppManifest.items" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/obj/Debug/actool/asset-manifest.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/obj/Debug/actool/bundle/AppIcon.icns" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/obj/Debug/actool/bundle/Assets.car" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/obj/Debug/actool/cloned-assets/Assets.xcassets/AppIcon.appiconset/AppIcon-128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/obj/Debug/actool/cloned-assets/Assets.xcassets/AppIcon.appiconset/AppIcon-128@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/obj/Debug/actool/cloned-assets/Assets.xcassets/AppIcon.appiconset/AppIcon-16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/obj/Debug/actool/cloned-assets/Assets.xcassets/AppIcon.appiconset/AppIcon-16@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/obj/Debug/actool/cloned-assets/Assets.xcassets/AppIcon.appiconset/AppIcon-256.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/obj/Debug/actool/cloned-assets/Assets.xcassets/AppIcon.appiconset/AppIcon-256@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/obj/Debug/actool/cloned-assets/Assets.xcassets/AppIcon.appiconset/AppIcon-32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/obj/Debug/actool/cloned-assets/Assets.xcassets/AppIcon.appiconset/AppIcon-32@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/obj/Debug/actool/cloned-assets/Assets.xcassets/AppIcon.appiconset/AppIcon-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/obj/Debug/actool/cloned-assets/Assets.xcassets/AppIcon.appiconset/AppIcon-512@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/obj/Debug/actool/cloned-assets/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/obj/Debug/actool/cloned-assets/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/obj/Debug/actool/partial-info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/obj/Debug/codesign/bin/Debug/Hello_Mac.app/Contents/MonoBundle/libMonoPosixHelper.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/obj/Debug/codesign/bin/Debug/Hello_Mac.app/Contents/MonoBundle/libmono-native.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/obj/Debug/coremlc/_BundleResourceWithLogicalName.items" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/obj/Debug/coremlc/_PartialAppManifest.items" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/obj/Debug/ibtool-manifests/Main.storyboardc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/obj/Debug/ibtool/Main.storyboardc/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/obj/Debug/ibtool/Main.storyboardc/MainMenu.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/obj/Debug/ibtool/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/obj/Debug/ibtool/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/obj/Debug/ibtool/_BundleResourceWithLogicalName.items" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/obj/Debug/mmp-cache/arguments" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/obj/Debug/mmp-cache/entry-points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/obj/Debug/mmp-cache/exported-symbols-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/obj/Debug/mmp-cache/main/x86_64/Hello_Mac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/obj/Debug/mmp-cache/main/x86_64/main.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hello_Mac/Hello_Mac/obj/Debug/response-file.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/.vs/Notepad/xs/UserPrefs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/.vs/Notepad/xs/project-cache/Notepad-Debug.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/Notepad/AppDelegate.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/Notepad/Assets.xcassets/AppIcon.appiconset/AppIcon-128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/Notepad/Assets.xcassets/AppIcon.appiconset/AppIcon-128@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/Notepad/Assets.xcassets/AppIcon.appiconset/AppIcon-16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/Notepad/Assets.xcassets/AppIcon.appiconset/AppIcon-16@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/Notepad/Assets.xcassets/AppIcon.appiconset/AppIcon-256.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/Notepad/Assets.xcassets/AppIcon.appiconset/AppIcon-256@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/Notepad/Assets.xcassets/AppIcon.appiconset/AppIcon-32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/Notepad/Assets.xcassets/AppIcon.appiconset/AppIcon-32@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/Notepad/Assets.xcassets/AppIcon.appiconset/AppIcon-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/Notepad/Assets.xcassets/AppIcon.appiconset/AppIcon-512@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/Notepad/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/Notepad/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/Notepad/Entitlements.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/Notepad/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/Notepad/Main.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/Notepad/Notepad.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/Notepad/ViewController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/Notepad/ViewController.designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/Notepad/obj/Debug/Notepad.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notepad/Notepad/obj/Debug/Xamarin.Mac,Version=v2.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../memo/memo/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../memo/memo/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../memo/memo/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../memo/memo/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../memo/memo/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../memo/memo/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../memo/memo/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../memo/memo/SceneDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../memo/memo/ViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../memo/memoTests/memoTests.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../memo/memoUITests/memoUITests.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../memo/memoUITests/memoUITestsLaunchTests.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Untitled-1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class MyClass&lt;T&gt;.cs" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +176,7 @@
       <updated>1664328969212</updated>
       <workItem from="1664328970895" duration="20000" />
       <workItem from="1664443085517" duration="36000" />
+      <workItem from="1669167146286" duration="64000" />
     </task>
     <servers />
   </component>
